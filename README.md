@@ -2,7 +2,7 @@
 
 # This is Bankist Website . 
 This Project was done as a part of Udemy JavaScript Course
-Made in JavaScript while learning . November/2021
+Made in JavaScript while learning . December/2021
 ---------------------------
 The HTML and CSS was provided .
 
@@ -17,7 +17,7 @@ Features Implemented :
 - Lazy loading images with IntersectionObserver API
 - Image Slider
 
-# This project is Live <a href="https://javascript-number-guess.netlify.app">Here</a> ! Enjoy .
+# This project is Live <a href="https://javascript-bankist-web.netlify.app">Here</a> ! Enjoy .
 
 - Have a nice day 🌞
 
